@@ -36,4 +36,7 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+
 }
+
+// <!-- Created by Khurshidbek Kobilov U1810125 -->
